@@ -3,7 +3,7 @@ Mixed Monotonic Programming for Fast Global Optimization
 
 This code package is related to the following scientific article:
 
-Bho Matthiesen, Christoph Hellings, Eduard A. Jorswieck, and Wolfgang Utschick "Mixed Monotonic Programming for Fast Global Optimization," submitted to IEEE Transactions on Signal Processing.
+Bho Matthiesen, Christoph Hellings, Eduard A. Jorswieck, and Wolfgang Utschick "[Mixed Monotonic Programming for Fast Global Optimization](http://arxiv.org/abs/1910.07853)," submitted to IEEE Transactions on Signal Processing.
 
 ## Contents
 
